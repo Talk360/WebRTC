@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "WebRTC",
+    name: "JitsiWebRTC",
     platforms: [.iOS(.v12)],
     products: [
         .library(
